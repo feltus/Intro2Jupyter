@@ -10,7 +10,7 @@ Few experiential learning tools have taken off as fast as Jupyter notebooks.  Ju
 
 ## Step A. Clone the Fortune 500 dataset you will need.
 
-Create a Jupyter Notebook nod on Palmetto.
+Create a Jupyter Notebook node on Palmetto.
 
 Open a new terminal.  Clone the dataset you will need (‘fortune500.csv’) by cloning this repository from github:
 
